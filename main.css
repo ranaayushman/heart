@@ -1,3 +1,6 @@
+body{
+    background-color:antiquewhite;
+}
 #heart { 
     position: relative; 
     width: 100px; 
